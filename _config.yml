@@ -18,7 +18,7 @@ github_username: "alex89912"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
 
 rss: rss
 
