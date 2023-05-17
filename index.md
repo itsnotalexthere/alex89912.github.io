@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+### Fun Fact: I'm real and not a bot.
 
-Maybe say a some things about yourself.
+###### How am I supposed to play, program, and study if I am not a bot that can do everything at once?
 
-Or maybe what you plan to blog about.
