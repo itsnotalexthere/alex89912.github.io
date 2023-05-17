@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In a world where limitations often define our capabilities, there are individuals who defy the odds and unleash their true potential. Meet [Name], a remarkable 13-year-old who harnesses an extraordinary ability – utilizing only 50% of their brain – to code, play, and excel in their studies, inspiring us all along the way.
+In a world where limits exist, I would like to meet you as Alex. As you would know me from school, I also play with others under the name of Alex89912. Here's the worlds that I like to present to you: Minecraft and Drone Racing League Sim (or DRL Sim)  
 
 ## A Mind Like No Other
 
