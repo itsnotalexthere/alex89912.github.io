@@ -2,18 +2,14 @@
 Covid hit me but nothing can stop me from building some cliffs or mountains in a block game
 
 ## Journey
-9am: Wake up
-#####
-10am: shower time
-#####
-11am: _bored_
-#####
-12am: builds cliffs
-#####
-1pm: _proceeds to lay on my bed_ (maybe it was not a good idea) 
-#####
-5pm: Writes this "diary"
-
+| 9pm  | Wake up                        |   |   |   |
+|------|--------------------------------|---|---|---|
+| 10pm | Shower time (who needs that?)  |   |   |   |
+| 11pm | Build cliffs                   |   |   |   |
+| 12pm | Eat                            |   |   |   |
+| 1am  | _sleep time_ (not a good idea) |   |   |   |
+| 2am  | Gaming with friends            |   |   |   |
+| 3pm  | Write this story               |   |   |   | 
 
 Maybe I am not the best writer in my country.
 
