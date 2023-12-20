@@ -2,6 +2,7 @@
 Covid hit me but nothing can stop me from building some cliffs or mountains in a block game
 
 ## Journey
+|      |                                |
 |------|--------------------------------|
 | 9pm  | Wake up                        |
 | 10pm | Shower time (who needs that?)  |
